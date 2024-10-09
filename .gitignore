@@ -1,0 +1,16 @@
+/.env
+/.pylintrc
+/.streamlit
+/.venv
+/.vscode
+/app.py
+/ClusteringAttempt1.str
+/customer_bot.py
+/dataset
+/GeneratedModels.gen
+/kt_crawling.py
+/Learning.py
+/mydata.jsonl
+/Prompt.pdf
+/second_data.jsonl
+/testcode.py
